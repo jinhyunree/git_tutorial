@@ -1,3 +1,2 @@
-remote repository _tutorial
-OA
+remote repository of git_tutorial
 
